@@ -1,4 +1,4 @@
-<h1 align="center">Yo!🤟🏽, I'm Aniruddha Krishna Jha</h1>
+<h1 align="center">Yo! 🤟🏽, I'm Aniruddha Krishna Jha</h1>
 <h3 align="center">A CS undergrad at PES university, Bangalore, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniruddhakj&label=Profile%20views&color=0e75b6&style=flat" alt="aniruddhakj" /> </p>
