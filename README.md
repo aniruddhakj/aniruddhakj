@@ -24,8 +24,8 @@
 
 <h2 align="left">Github Stats</h2>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniruddhakj&show_icons=true&theme=radical&locale=en&layout=compact%22%20alt=%22aniruddhakj" /></p><br/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniruddhakj&show_icons=true&theme=discord_old_blurple&locale=en&layout=compact" alt="aniruddhakj-langcard" /></p><br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniruddhakj&show_icons=true&locale=en&theme=flag-india" alt="aniruddhakj" /></p><br/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniruddhakj&show_icons=true&locale=en&theme=discord_old_blurple" alt="aniruddhakj" /></p><br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aniruddhakj&theme=flag-india&background=353535D8" /></p><br/>
