@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working on [solving Leetcode problems](https://github.com/aniruddhakj/LeetcodeAlgos)
 
-- 🌱 I’m currently learning **Reinforcement Learning**
+- 🌱 I’m currently learning **Hardware Emulation**
 
-- 💬 Ask me about **Blockchain, Deep Web and more!**
+- 💬 Ask me about **AI, Deep Web and more!**
 
 - 📫 How to reach me **aniruddhakj100@gmail.com**
 
